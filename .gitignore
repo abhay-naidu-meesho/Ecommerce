@@ -1,0 +1,35 @@
+# Maven
+target/
+*.jar
+*.war
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Java
+*.class
+
+# Logs
+*.log
+logs/
+
+# Database (H2)
+*.db
+*.h2.db
+
+# Spring Boot
+HELP.md
+
+# Config
+application-local.properties
+application-prod.properties
+
+# Temporary
+*.tmp
+*.swp
